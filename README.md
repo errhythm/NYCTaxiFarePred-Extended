@@ -48,3 +48,10 @@ project are:
 ## Future Work
 
 In the future, we plan to expand this project by incorporating data from Dhaka City to predict the taxi fares in Dhaka.
+
+## Contributors 😍
+
+<a href="https://github.com/errhythm/NYCTaxiFarePred-Extended/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=errhythm/NYCTaxiFarePred-Extended" />
+</a>
+
